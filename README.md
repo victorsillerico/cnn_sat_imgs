@@ -1,2 +1,3 @@
 # CNN for Satellite Image Classification
 Satellite image classification is the most significant technique used in remote sensing for the computerized study and pattern recognition of satellite information, which is based on diversity structures of the image that involve rigorous validation of the training samples depending on the used classification algorithm.
+![Alt text](https://storage.googleapis.com/kaggle-datasets-images/1544742/2546969/587dbc48162374bca68d9f8c10299a90/dataset-card.jpg?t=2021-08-21-19-05-27 "Satellite Images")
