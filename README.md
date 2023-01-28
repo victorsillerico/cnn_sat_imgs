@@ -2,7 +2,7 @@
 Satellite image classification is the most significant technique used in remote sensing for the computerized study and pattern recognition of satellite information, which is based on diversity structures of the image that involve rigorous validation of the training samples depending on the used classification algorithm.
 
 <p align="center">
-    <img src="dataset-card.jpg"  width="50%" height="20%"> 
+    <img src="images/dataset-card.jpg"  width="40%" height="10%"> 
 
 ## What is it?
 
@@ -21,10 +21,10 @@ The input image size for CNN is 224*224, it means we need to resize all images t
 
 <table>
     <tr>
-        <td> <img src="cloudy.jpg"  alt="1" width = 360px height = 200px ></td>
-        <td><img src="desert.jpeg" alt="2" width = 360px height = 200px></td>
-        <td><img src="water.jpg" alt="2" width = 360px height = 200px></td>
-        <td><img src="forest.jpg" alt="2" width = 360px height = 200px></td>
+        <td> <img src="images/cloudy.jpg"  alt="1" width = 360px height = 200px ></td>
+        <td><img src="images/desert.jpeg" alt="2" width = 360px height = 200px></td>
+        <td><img src="images/water.jpg" alt="2" width = 360px height = 200px></td>
+        <td><img src="images/forest.jpg" alt="2" width = 360px height = 200px></td>
     </tr> 
 </table>
 
