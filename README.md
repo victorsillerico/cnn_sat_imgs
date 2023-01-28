@@ -21,10 +21,10 @@ The input image size for CNN is 224*224, it means we need to resize all images t
 
 <table>
     <tr>
-        <td> <img src="images/cloudy.jpg"  alt="1" width = 360px height = 200px ></td>
-        <td><img src="images/desert.jpeg" alt="2" width = 360px height = 200px></td>
-        <td><img src="images/water.jpg" alt="2" width = 360px height = 200px></td>
-        <td><img src="images/forest.jpg" alt="2" width = 360px height = 200px></td>
+        <td> <figure> <figcaption>Cloudy</figcaption> <img src="images/cloudy.jpg"  alt="1" width = 500px height = 90px title="cloudy"> </figure> </td>
+        <td> <figure> <figcaption>Desert</figcaption> <img src="images/desert.jpeg" alt="2" width = 500px height = 90px title="desert"> </figure> </td>
+        <td> <figure> <figcaption>Forest</figcaption> <img src="images/water.jpg" alt="2" width = 500px height = 90px title="forest"> </figure> </td>
+        <td> <figure> <figcaption>Water</figcaption> <img src="images/forest.jpg" alt="2" width = 500px height = 90px title="water"> </figure> </td>
     </tr> 
 </table>
 
