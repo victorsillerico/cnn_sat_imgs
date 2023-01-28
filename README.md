@@ -6,7 +6,7 @@ Satellite image classification is the most significant technique used in remote 
 
 ## What is it?
 
-This is a pytorch implementation of a deep learning model for classification of satellite images. The proposed architecture is based on tranfer learning and uses ResNet50, VGG16, and AlexNet classification models as backbone pre-trained models.
+This is a pytorch implementation of a deep learning model for classification of satellite images. The proposed architecture is based on tranfer learning and uses ResNet18, ResNet34, and ResNet50 architectures as backbone pre-trained models.
 
 ## Requirements
 For running the sample code:
