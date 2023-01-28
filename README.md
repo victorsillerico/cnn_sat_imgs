@@ -14,4 +14,36 @@ For running the sample code:
 - [Pytorch](https://pytorch.org/)
 - [Matplotlib](https://matplotlib.org/)
 
+## Dataset
+Satellite image Classification Dataset-RSI-CB256. This dataset has 4 different classes mixed from Sensors and google map snapshot.
 
+The input image size for CNN is 224*224, it means we need to resize all images to this size. See example image as below:
+
+<table>
+    <tr>
+        <td> <img src="cloudy.jpg"  alt="1" width = 360px height = 200px ></td>
+        <td><img src="desert.jpeg" alt="2" width = 360px height = 200px></td>
+        <td><img src="water.jpg" alt="2" width = 360px height = 200px></td>
+        <td><img src="forest.jpg" alt="2" width = 360px height = 200px></td>
+    </tr> 
+</table>
+
+| Data      | Number of Images | 
+| :---        |    :----:   |   
+| Train Set      | 4504       | 
+| Test Set   | 1127        | 
+
+## CNN models
+
+The CNN models applied in this project includes 
+ResNet50, ALexNet, and VGG. We compare the test accuracy of each CNN model in our dataset and the conclusion is ResNet50 has the best performance with 92 % test accuracy.
+
+## Experiments
+
+### Results
+
+| Model      | Best Test Accuracy | 
+| :---        |    :----:   |   
+| ResNet50      | 95 %       | 
+| AlexNet   | 80%        | 
+| VGG   | 92%        | 
