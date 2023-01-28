@@ -44,6 +44,6 @@ ResNet50, ALexNet, and VGG. We compare the test accuracy of each CNN model in ou
 
 | Model      | Test Accuracy | Test Loss |
 | :---        |    :----:   |   :----:   |
-| ResNet50      | 98 %       | 0.1050       | 
 | ResNet18   | 99%        | 0.0247 |
-| VGG16   | 92%        | 21|
+| ResNet34   | 99%        | 0.0571 |
+| ResNet50   | 98%       | 0.1050 | 
