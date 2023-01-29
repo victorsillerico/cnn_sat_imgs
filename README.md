@@ -36,7 +36,7 @@ The input image size for CNN is 224*224, it means we need to resize all images t
 ## CNN models
 
 The CNN models applied in this project includes 
-ResNet50, ALexNet, and VGG. We compare the test accuracy of each CNN model in our dataset and the conclusion is ResNet50 has the best performance with 92 % test accuracy.
+ResNet18, ResNet34, and ResNet50. We compare the test accuracy of each CNN model in our dataset and the conclusion is ResNet18 has the best performance with 99% test accuracy and 0.057 test loss.
 
 ## Experiments
 
